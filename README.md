@@ -6,7 +6,7 @@ This README generator allows the user to create a README.md file quickly on the 
 
 ## Link to the GitHub repo:
 
-
+https://github.com/aldwinlub/README-generator
 
 ## Screen Recording
 

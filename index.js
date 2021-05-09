@@ -89,7 +89,7 @@ const promptUser = () => {
 function init() {
     promptUser()
         .then((response) => writeFileAsync('README2.md', generateMarkdown(response)))
-        .then(() => console.log('Successfully created a NEWREADME.md'))
+        .then(() => console.log('Successfully created a README2.md'))
         .catch((err) => console.error(err));
 };
 
